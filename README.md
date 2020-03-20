@@ -5,8 +5,8 @@ Intro Project
 ![alt text](https://user-images.githubusercontent.com/61747690/77153735-e240ed80-6acc-11ea-9c5a-21760d1c44cb.png)
 
 2. หน้าจอ Login เข้าสู่ระบบ โดยใช้facebook
-![alt text](https://user-images.githubusercontent.com/48548611/77112531-c3564300-6a5b-11ea-99d8-303a064e1a0d.png)
-
+![alt text](https://user-images.githubusercontent.com/61747690/77153886-38ae2c00-6acd-11ea-8bd4-194fe6f9d20a.png)
+![alt text](https://user-images.githubusercontent.com/61747690/77153886-38ae2c00-6acd-11ea-8bd4-194fe6f9d20a.png)
 3. หน้าจอ ข้อมูลรายละเอียดของเเต่ละเกม
 ![alt text](https://user-images.githubusercontent.com/48548611/77112122-07951380-6a5b-11ea-9a4a-a9c9cda110d4.png)
 
