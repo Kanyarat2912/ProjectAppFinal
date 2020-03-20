@@ -8,7 +8,7 @@ Intro Project
 ![alt text](https://user-images.githubusercontent.com/61747690/77153886-38ae2c00-6acd-11ea-8bd4-194fe6f9d20a.png)
 ![alt text](https://user-images.githubusercontent.com/61747690/77153965-64311680-6acd-11ea-9d2c-90d8919c252f.png)
 3. หน้าจอ ข้อมูลรายละเอียดของเเต่ละเกม
-![alt text](https://user-images.githubusercontent.com/48548611/77112122-07951380-6a5b-11ea-9a4a-a9c9cda110d4.png)
+![alt text](https://user-images.githubusercontent.com/61747690/77154046-875bc600-6acd-11ea-83c6-33e72a0d7b86.png)
 
 4.หน้าจอ ข้อมูลของเกมที่เลือก
 ![alt text](https://user-images.githubusercontent.com/48548611/77112213-31e6d100-6a5b-11ea-876c-cb7401bb5a8f.png)
