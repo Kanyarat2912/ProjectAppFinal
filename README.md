@@ -11,13 +11,13 @@ Intro Project
 ![alt text](https://user-images.githubusercontent.com/61747690/77154046-875bc600-6acd-11ea-83c6-33e72a0d7b86.png)
 
 4.หน้าจอ ข้อมูลของเกมที่เลือก
-![alt text](https://user-images.githubusercontent.com/48548611/77112213-31e6d100-6a5b-11ea-876c-cb7401bb5a8f.png)
+![alt text](https://user-images.githubusercontent.com/61747690/77154145-b7a36480-6acd-11ea-812d-ce2f0ba2f813.png)
 
 5.หน้าจอ เมนูเกมส์
-![alt text](https://user-images.githubusercontent.com/48548611/77112298-59d63480-6a5b-11ea-8cd8-2a16ced476f1.png)
+![alt text](https://user-images.githubusercontent.com/61747690/77154270-efaaa780-6acd-11ea-9f34-ff60dbbe27c5.png)
 
 6.หน้าจอ เว็บเกมส์
-![alt text](https://user-images.githubusercontent.com/48548611/77112372-75d9d600-6a5b-11ea-99ed-0dc670dded23.png)
+![alt text](https://user-images.githubusercontent.com/61747690/77154192-d0ac1580-6acd-11ea-8525-92dc396faba1.png)
 
 7.หน้าจอ กราฟสถิติการจำนวนคนเล่นเกม
 ![alt text](https://user-images.githubusercontent.com/48548611/77112492-af124600-6a5b-11ea-9380-bf44b0989e11.png)
