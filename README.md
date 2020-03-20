@@ -20,4 +20,4 @@ Intro Project
 ![alt text](https://user-images.githubusercontent.com/61747690/77154192-d0ac1580-6acd-11ea-8525-92dc396faba1.png)
 
 7.หน้าจอ กราฟสถิติการจำนวนนักเรียนที่เล่นเกมในเเต่ละส่วน
-![alt text](https://user-images.githubusercontent.com/61747690/77154311-081ac200-6ace-11ea-89dd-998f196bac16.png)
+![alt text](https://user-images.githubusercontent.com/61747690/77155531-41ecc800-6ad0-11ea-9cbb-3df4a934e04f.png)
