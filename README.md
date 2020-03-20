@@ -2,7 +2,7 @@ Intro Project
  แรงบันดาลใจในการทำโปรเจคเกิดจาการชอบเล่นเกม สามารถเล่นเกมผ่านเว็บได้ แสดงการฟสถิติการจำนวนคนเล่นเกม
  
 1. หน้าจอ Login เข้าสู่ระบบ โดยใช้password
-![alt text](https://user-images.githubusercontent.com/48548611/77112034-e46a6400-6a5a-11ea-91db-4f3f01a5c9ba.png)
+![alt text](https://user-images.githubusercontent.com/61747690/77152915-6db97f00-6acb-11ea-8b74-85ea317830c9.png)
 
 2. หน้าจอ Login เข้าสู่ระบบ โดยใช้facebook
 ![alt text](https://user-images.githubusercontent.com/48548611/77112531-c3564300-6a5b-11ea-99d8-303a064e1a0d.png)
