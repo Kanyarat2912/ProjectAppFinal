@@ -1,0 +1,37 @@
+{
+  "recipes": [
+    {
+      "title": "Slot machine",
+      "image" : "https://jce-paysdelaloire.org/wp-content/uploads/2019/11/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5.png",
+      "url": "https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95%E0%B9%81%E0%B8%A1%E0%B8%8A%E0%B8%8A%E0%B8%B5%E0%B8%99",
+      "description": "สล็อตแมชชีนเป็นเครื่องเล่นพนันที่ประกอบด้วยวงล้อ",
+      "servings": 4,
+      "dietLabel": "Low-Carb"
+    },
+
+    {
+      "title": "Roll Dice",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/b/b1/Three_six-sided_dice.jpg",
+      "url": "http://www.roll-dice-online.com/",
+      "description": "ลูกเต๋าใช้สำหรับสร้างตัวเลขสุ่มและมักใช้ในเกมการพนัน",
+      "servings": 4,
+      "dietLabel": "Balanced"
+    },
+    {
+      "title": "Sudoku",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sudoku_Puzzle_by_L2G-20050714_standardized_layout.svg/1200px-Sudoku_Puzzle_by_L2G-20050714_standardized_layout.svg.png",
+      "url": "https://sudoku.com/th",
+      "description": "ซูโดกุเป็นเกมปริศนายอดนิยมจากญี่ปุ่นที่ให้คุณใส่ตัวเลขลงไป",
+      "servings": 4,
+      "dietLabel": "Low-Carb"
+    },
+    {
+      "title": " Roulette wheel ",
+      "image" : "https://www.criticapolitica.org/wp-content/uploads/2019/12/55.png",
+      "url": "https://sudoku.com/th",
+      "description": "ถือเป็นอีกหนึ่งเกมคาสิโนสุดคลาสสิค ซึ่งเราจะได้เห็นกันบ่อยๆ",
+      "servings": 4,
+      "dietLabel": "Low-Carb"
+    }
+  ]
+}

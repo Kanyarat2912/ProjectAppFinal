@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/grad_bg"
+    android:orientation="vertical"
+    tools:context=".authen">
+
+
+    <TextView
+        android:id="@+id/tv_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="Login"
+        android:textColor="@color/white"
+        android:textSize="30sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:text="Username"
+        android:layout_marginTop="300dp"
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:textSize="15sp" />
+    <EditText
+        android:id="@+id/user_input"
+        android:layout_width="420dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="330dp"
+        android:background="@drawable/et_bg"
+        android:inputType="textPersonName"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:textColor="@color/white"
+        android:textSize="10sp" />
+
+    <Button
+        android:id="@+id/btnNextPage"
+        android:layout_width="180dp"
+        android:layout_height="35dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="500dp"
+        android:text="LOGIN"
+        android:background="@drawable/et_bg"
+        android:textColor="@color/white"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:text="Password"
+        android:layout_marginTop="390dp"
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:textSize="15sp" />
+    <EditText
+        android:id="@+id/pass_input"
+        android:layout_width="420dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="430dp"
+        android:background="@drawable/et_bg"
+        android:inputType="textPersonName"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:textColor="@color/white"
+        android:textSize="10sp" />
+
+    <ImageView
+        android:id="@+id/star"
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/logo_wjsn1" />
+
+    <com.facebook.login.widget.LoginButton
+
+            android:id="@+id/login_button"
+            android:layout_width="180dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="550dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="100dp"
+
+            />
+
+
+</RelativeLayout>
+
+
+
+
+
