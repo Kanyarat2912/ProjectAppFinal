@@ -19,5 +19,5 @@ Intro Project
 6.หน้าจอ เว็บเกมส์
 ![alt text](https://user-images.githubusercontent.com/61747690/77154192-d0ac1580-6acd-11ea-8525-92dc396faba1.png)
 
-7.หน้าจอ กราฟสถิติการจำนวนคนเล่นเกม
-![alt text](https://user-images.githubusercontent.com/48548611/77112492-af124600-6a5b-11ea-9380-bf44b0989e11.png)
+7.หน้าจอ กราฟสถิติการจำนวนนักเรียนที่เล่นเกมในเเต่ละส่วน
+![alt text](https://user-images.githubusercontent.com/61747690/77154311-081ac200-6ace-11ea-89dd-998f196bac16.png)
